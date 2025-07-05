@@ -1,0 +1,25 @@
+{
+  "name": "Saif AI - دردشة ذكاء اصطناعي",
+  "short_name": "Saif AI",
+  "description": "مساعد ذكاء اصطناعي عربي متقدم للإجابة على كافة أسئلتك، مع دعم متخصص للمواد الدراسية.",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/nhkF1YqX/Screenshot-680d03679600f7af0b4c700c6b270fe7-2.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/nhkF1YqX/Screenshot-680d03679600f7af0b4c700c6b270fe7-2.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a1d1e",
+  "theme_color": "#24292b",
+  "lang": "ar",
+  "dir": "rtl"
+}
